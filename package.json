@@ -1,0 +1,16 @@
+{
+  "name": "Forgotgram",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gergo Szonyi <gex@gex.hu>",
+  "repository": {
+    "type": "git",
+    "url": "ssh://github/szexigexi/forgotgram"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
